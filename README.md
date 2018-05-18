@@ -15,7 +15,7 @@ some tools brief introduction
 <p>Nginx中文文档 有助于程序员入门</p>
 
 ## [thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
-<p>一种html模版</p>
+<p>一种html模版引擎</p>
 
 ## [在线cron表达式生成工具](http://cron.qqe2.com/ "在线cron表达式生成工具") 
 <p>  定时任务定时表达式生成工具。 [第二网址](http://www.pdtools.net/tools/becron.jsp "第二网址")</p>
